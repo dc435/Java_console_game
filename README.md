@@ -1,4 +1,4 @@
-# AdvancedJavaGame
+# Java Console Game
 
 ## Overview
 
