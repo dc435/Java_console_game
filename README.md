@@ -1,5 +1,9 @@
 # AdvancedJavaGame
-Extension to dc435/SimpleJavaGame. 
-Console / terminal, text-based simple game.
-Objective is for player to traverse 'levels', collect objects and 'level up'.
-Program illustrates use of OOP, inheritance, file read/write, overriding methods and other intermediate programming concepts.
+
+## Overview
+
+This is a console-based text game built in Java.
+
+The objective is for player to traverse 'levels', collect objects and 'level up'.
+
+The program illustrates use of object-oriented programmed, inheritance, file read/write, overriding methods and other intermediate programming concepts.
